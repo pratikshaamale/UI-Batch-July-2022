@@ -1,0 +1,29 @@
+{
+  "drivers": [
+    {
+      "driverId": 101,
+      "driverName": "ramesh",
+      "mobileNumber": 984020300,
+      "location": "chennai",
+      "dateOfBirth": "1998-12-20",
+      "rating": 4.2
+    },
+    {
+      "driverId": 102,
+      "driverName": "Suresh",
+      "mobileNumber": 872737200,
+      "location": "chennai",
+      "dateOfBirth": "1997-10-12",
+      "rating": 4.4
+    },
+    {
+      "driverId": "",
+      "driverName": "Siva",
+      "mobileNumber": "9484848",
+      "location": "pune",
+      "dateOfBirth": "1998-10-09",
+      "rating": "4",
+      "id": "103"
+    }
+  ]
+}
